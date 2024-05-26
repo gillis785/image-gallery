@@ -33,7 +33,6 @@ img {
 	height: 400px;
 	margin: 10px;
 	transition: all 1s;
-	background-color: blue;
 }
 
 img:hover {
